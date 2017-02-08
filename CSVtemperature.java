@@ -1,7 +1,6 @@
 
 /**
- * Write a description of CSVtemperature here.
- * Program to read weather files and retrieve data
+  * Program to read weather files and retrieve data
  * @author Garima Aggarwal
  * 
  */
